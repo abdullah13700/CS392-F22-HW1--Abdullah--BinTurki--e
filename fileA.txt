@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 feature1 with 1 bugfix
 feature2
+=======
+feature1 with bug fix
+>>>>>>> main
